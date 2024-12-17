@@ -49,7 +49,7 @@ export function FormularioArtista() {
         },
     });
 
-    const { fields, append, remove, update } = useFieldArray({
+    const { fields, update } = useFieldArray({
         control: form.control,
         name: "miembros",
     });
