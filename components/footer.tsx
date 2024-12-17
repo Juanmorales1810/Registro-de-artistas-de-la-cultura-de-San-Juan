@@ -213,7 +213,7 @@ export default function Footer() {
 
                                 <li>
                                     <a
-                                        className="group flex justify-star gap-1.5  ltr:justify-start rtl:justify-end"
+                                        className="group flex justify-star gap-1.5"
                                         href="#"
                                     >
                                         <span className="text-gray-700 transition group-hover:text-gray-700/75">
